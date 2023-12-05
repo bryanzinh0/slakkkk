@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <h1>Sobre a agricultura</h1>
 
 <p>é uma atividade econômica caracterizada pelo <strong>plantio e cultivo de alimentos</strong>. A fixação da população nômade contribuiu para a produção alimentar em nível mundial. Atualmente, a atividade agrícola é umas das principais da economia mundial.</p>
@@ -9,3 +11,4 @@
 <p><em>Todos os indícios sugerem que a agricultura surgiu independentemente em várias regiões do planeta. No tocante ao cultivo das principais espécies, acredita-se que tenha despontado em três grandes áreas: a China, o Sudeste Asiático e a América tropical.</em></p>
 
 <p>A atividade agropecuária possui um papel importante para a economia brasileira. Esse fato pode ser refletido no PIB brasileiro que, apenas no ano de 2020, o agronegócio brasileiro teve participação total de 26,6% no PIB.</p>
+</html>
