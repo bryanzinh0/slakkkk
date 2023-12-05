@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang=>
     <h1>Sobre a agricultura</h1>
 
     <p>é uma atividade econômica caracterizada pelo <strong>plantio e cultivo de alimentos</strong>. A fixação da população nômade contribuiu para a produção alimentar em nível mundial. Atualmente, a atividade agrícola é umas das principais da economia mundial.</p>
